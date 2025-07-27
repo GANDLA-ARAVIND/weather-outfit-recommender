@@ -1,6 +1,6 @@
 # 🌤️ Weather Outfit Recommender
 
-A smart, personalized web app that recommends outfits and activities based on 5-day weather forecasts and your wardrobe. Customize your experience with themes, language preferences, and manage your clothing like a digital closet!
+A smart, personalized web app that recommends outfits and activities based on weather forecasts and your wardrobe. Customize your experience with themes, language preferences, and manage your clothing like a digital closet!
 
 ---
 
